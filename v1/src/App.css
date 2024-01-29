@@ -1,5 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
 body {
   margin: 0;
+  background-color: #161616;
+  color: #86868b;
 }
 
 .paddingLR {
@@ -13,7 +17,6 @@ body {
 }
 
 .leftDiv {
-  border: 1px solid red;
   max-height: 100vh;
   min-height: 100vh;
   width: 50%;
@@ -27,10 +30,61 @@ body {
 }
 
 .rightDiv{
-  border: 1px solid red;
   width: 50%;
   padding-top: 100px;
   padding-bottom: 100px;
   padding-left: 40px;
   padding-right: 40px;
+}
+
+.Inter {
+  font-family: 'Inter' !important;
+}
+
+.javascript {
+  height: 30px;
+}
+
+.mongodb {
+  height: 30px;
+}
+
+.express {
+  height: 20px;
+}
+
+.react {
+  height: 30px;
+}
+
+.node {
+  height: 30px;
+}
+
+.recoil {
+  height: 30px;
+}
+
+.jwt {
+  height: 30px;
+}
+
+.github {
+  height: 30px;
+}
+
+.npm {
+  height: 50px;
+}
+
+.postman {
+  height: 30px;
+}
+
+.aws {
+  height: 30px;
+}
+
+.docker {
+  height: 30px;
 }
